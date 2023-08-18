@@ -1,4 +1,4 @@
-description = "Pertanyaan 1"
+description = "Question 1"
 
 # Your app goes in the function run()
 
@@ -121,6 +121,7 @@ def run():
         plt.title(f'Word Cloud - {bank}')
         plt.axis('off')
         st.pyplot()
+        st.set_option('deprecation.showPyplotGlobalUse', False)
 
     def generate_wordcloudSurvey(column_name):
         # Membaca data dari file Excel
