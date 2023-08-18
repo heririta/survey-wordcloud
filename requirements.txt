@@ -1,0 +1,12 @@
+pandas
+streamlit
+bs4
+wordcloud
+streamlit-aggrid
+pyinstaller
+pathlib
+pyqt5
+pyqtwebengine
+wordcloud 
+openpyxl
+matplotlib
