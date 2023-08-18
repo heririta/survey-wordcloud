@@ -9,3 +9,4 @@ pyqtwebengine
 wordcloud 
 openpyxl
 matplotlib
+nltk
